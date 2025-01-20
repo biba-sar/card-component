@@ -5,7 +5,7 @@
    font-family: Arial, Helvetica, sans-serif;
 }
 body{
-   
+   transform: scale(.8);
    background-color: hsl(185, 75%, 39%);
    margin:auto;
    height: 120vh;
@@ -15,16 +15,16 @@ body{
 .container{
    position: relative;
    margin: -30em auto;
-   width: 400px;
-   height: 470px;
+   width: 350px;
+   height: 450px;
    background-color: #fff;
    border-radius: 12px;
    box-shadow: 0 4px 8px black;
 }
 body .image1, .image2{
    width: 100%;
-   max-width: 800px;
-   height:800px;
+   max-width: 700px;
+   height:700px;
 }
 body .image2{
    float: inline-end;
@@ -33,7 +33,6 @@ body .image1{
    margin-top: -7em;
 }
 body .image3{
-   width: 400px;
    border-radius: 12px 12px 0 0;
 }
 body .image4{
