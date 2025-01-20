@@ -14,7 +14,7 @@ body{
 }
 .container{
    position: relative;
-   margin: -27em auto;
+   margin: -30em auto;
    width: 400px;
    height: 470px;
    background-color: #fff;
@@ -30,7 +30,7 @@ body .image2{
    float: inline-end;
 }
 body .image1{
-   margin-top: -3em;
+   margin-top: -7em;
 }
 body .image3{
    width: 400px;
