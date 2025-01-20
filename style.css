@@ -14,12 +14,11 @@ body{
 }
 .container{
    position: relative;
-   margin: -30em auto;
+   margin: -20em auto;
    width: 350px;
    height: 450px;
    background-color: #fff;
    border-radius: 12px;
-   box-shadow: 0 4px 8px black;
 }
 body .image1, .image2{
    width: 100%;
@@ -30,7 +29,7 @@ body .image2{
    float: inline-end;
 }
 body .image1{
-   margin-top: -7em;
+   margin-top: -12em;
 }
 body .image3{
    border-radius: 12px 12px 0 0;
@@ -40,7 +39,7 @@ body .image4{
    height: 100px;
    border-radius: 70%;
    border: 5px solid #fff;
-   margin: -50px 150px 20px 150px;
+   margin: -50px 120px 20px 120px;
  }
 .text{
    display: block;
